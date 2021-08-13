@@ -1,0 +1,53 @@
+
+*{
+    margin: 0;
+    padding:0;
+}
+
+body{
+    height:100vh;
+    background-color: #416a59;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    font-size: 50px;
+    flex-direction: column;
+    width: 100%;
+}
+#coun_city{
+    background-color: cadetblue;
+    color: #f5eec2;
+    width: 100%;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 700;
+    font-family: serif;
+    padding: 17px 0px;
+}
+.time{
+    
+    font-family: -webkit-pictograph;
+    padding: 8px 0px;
+    font-weight: 600;
+    font-size: 46px;
+    background-color: #399a9d;
+    color: #f5eec2;
+    width: 100%;
+    text-align: center;
+}
+.dmdy{
+    background-color: #498688;
+    color: #f5eec2;
+    width: 100%;
+    text-align: center;
+    font-size: 32px;
+    font-family: sans-serif;
+    font-weight: 400;
+    padding: 11px 0px;
+}
